@@ -1,8 +1,8 @@
-from fastapi import FastAPI
 import json
-import joblib
 
+import joblib
 import pandas as pd
+from fastapi import FastAPI
 
 app = FastAPI()
 
